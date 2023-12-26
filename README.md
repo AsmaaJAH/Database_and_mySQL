@@ -1,3 +1,3 @@
-# Database_and_mySQL:
+# Database & mySQL:
 ---------------------------------------------------------------------------------------------------------------
-# all database assignments with solutions: (labs & sheets that were taken in CSED,FOE, Alexandria Uni 2023-2024 )
+# all database management system assignments with solutions: (labs & sheets at CSED, FOE, Alexandria Uni 2023-2024 )
